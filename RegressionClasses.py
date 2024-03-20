@@ -1,8 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-x = [-5,-2, 0, 4, 5, 6, 7]
-y = [25, 4, 0, 16, 25, 36, 49]
+#Example Arrays to copy and Paste
+#X = -5,-2, 0, 4, 5, 6, 7
+#y = 25, 4, 0, 16, 25, 36, 49
 
 
 class Regression:
